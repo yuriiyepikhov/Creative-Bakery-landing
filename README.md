@@ -8,7 +8,7 @@ This landing page is designed to attract clients' attention to Creative Bakery's
 
 ## Project Overview
 
-This project is built using HTML and CSS/SCSS. Key features of the page include:
+This project is built using HTML and SCSS. Key features of the page include:
 
 - **Sidebar Menu**: Offers additional navigation options for enhanced user experience.
 - **Page Navigation**: Allows easy browsing through different sections of the landing page.
@@ -18,9 +18,9 @@ This project is built using HTML and CSS/SCSS. Key features of the page include:
 ## Technologies Used
 
 1. **HTML**: Used for structuring the content and elements of the landing page.
-2. **CSS/SCSS**: Used for styling the HTML elements to enhance the visual presentation and user experience.
+2. **SCSS**: Used for styling the HTML elements to enhance the visual presentation and user experience.
 
-These technologies work together to create a responsive and engaging landing page for Creative Bakery, ensuring a seamless user experience across different devices and screen sizes.
+Together, these technologies provide a responsive landing page that adapts seamlessly to various screen sizes and devices. Whether viewed on a desktop, tablet, or smartphone, the layout and content adjust to provide an optimal user experience.
 
 ## Preview
 
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    Click the **Fork** button in the top right corner of [this page](https://github.com/yuriiyepikhov/Creative-Bakery-landing) to create your copy of the repository on GitHub.
 
 2. **Clone the Repository**:
-   Open your terminal, navigate to the directory where you want to store the project, and clone the repository into that directory:
+   Open your terminal, navigate to the directory where you want to store the project, and clone your copy of the repository into that directory:
 
 ```
 mkdir Creative-Bakery-landing
@@ -61,7 +61,7 @@ npm install
 ```
 
 5. **Start the Project**:
-   Start the project locally:
+   Start the project locally on your device:
 
 ```
 npm start
